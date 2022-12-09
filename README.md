@@ -1,2 +1,2 @@
 # social_test
-Hello
+This project is done with python, Django framework.
